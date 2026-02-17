@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "create-user-mcp": {
+            "command": "node",
+            "args": [
+                "c:\\Users\\marsh\\Desktop\\MCP\\dist\\server.js"
+            ]
+        }
+    }
+}
