@@ -27,6 +27,3 @@ This repository contains an implementation of a Model Context Protocol (MCP) ser
    ```bash
    npm run client
    ```
-
-## Reference
-This project was inspired by the [WebDevSimplified MCP Course](https://github.com/WebDevSimplified/mcp-server-and-client.git).
